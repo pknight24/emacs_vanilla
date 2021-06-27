@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/org/" "~/fredhutch/aKPR-project/" "~/bema-project/" "~/.doom.d/")

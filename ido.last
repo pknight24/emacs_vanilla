@@ -1,0 +1,56 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/parker/fredhutch/aKPR-project/" . "notes/")
+ ("/home/parker/fredhutch/" . "aKPR-project/")
+ ("/home/parker/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/parker/fredhutch/aKPR-project/notes/"
+ "/home/parker/org/"
+ "/home/parker/.emacs.d/"
+ "/home/parker/fredhutch/aKPR-project/manuscript/"
+ "/home/parker/fredhutch/aKPR-project/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "neuro.Rmd"
+ "daily.org"
+ "projectile-bookmarks.eld"
+ "init.el"
+ "org-bullets.el"
+ "aKPR_v1.pdf"
+ "papers.org"
+ "notes.org"
+ "README.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/parker/fredhutch/aKPR-project/notes/" (24785 63218 393971 605000) "./" "pk_notes.pdf" "zeller_analysis.Rmd" "neuro_output_PM.xlsx" "interaction_pvalues.csv" ".auctex-auto/" "simulations.org" "pk_notes.org" "neuro_output_Lang.xlsx" "pk_notes.tex" "identifiability.Rmd" "adaptive.Rmd" "visit_May17-May24/" "neuro.Rmd" ".Rhistory" "neuro_output_Learn.xlsx" "co-inertia_analysis.Rmd" "neuro_output_EF.xlsx" "../")
+
+ ("/home/parker/" (24792 60230 680451 519000) ".pipewire-media-session/" ".utop-history" ".sudo_as_admin_successful" "anyconnect-linux64-4.9.03047/" ".lyx/" ".gnupg/" ".fltk/" "left-linux/" "./" "anaconda3/" "Videos/" ".config/" ".doom.d/" "fredhutch/" ".steampid" ".pam_environment" "Public/" ".gnome/" ".bash_history" ".emacs.d_doom/" ".viminfo" ".cache/" "org/" ".running_with_rifles/" ".zoom/" ".local/" "Zotero/" ".julia/" ".python_history" ".atom/" "resources/" ".oracle_jre_usage/" ".var/" ".notable.json" ".zotero/" ".klei/" ".steampath" "swiftshader/" ".ipython/" ".steam/" ".bashrc" ".git-credential-cache/" ".bash_logout" ".r/" ".crawl/" "bacher/" ".jupyter/" "Desktop/" ".pylint.d/" "Templates/" ".profile" ".ssh/" ".Rhistory" "snap/" "R/" "Music/" ".cisco/" "julia-1.6.0/" ".keras/" "Downloads/" ".mozilla/" ".pki/" ".ipynb_checkpoints/" ".mono/" ".TeXworks/" "Pictures/" ".emacs.d/" "Documents/" ".texlive2020/" "../" ".vscode/" ".anyconnect" "kite-installer" ".ocamlinit" ".paradoxinteractive/" ".conda/" "bema-project/" ".lesshst" ".irssi/" ".gphoto/" ".gitconfig" ".pulse-cookie" ".ghc/")
+
+ ("/home/parker/.emacs.d/" (24792 61154 616346 74000) "./" "lisp/" "elpa/" "projectile-bookmarks.eld" "ido.last" "auto-save-list/" "init.el" "transient/" "../" ".git/")
+
+ ("/home/parker/fredhutch/aKPR-project/code/" (24790 30065 265055 710000) "scaling_for_GMD.R" "./" "chengping.R" "simulations/" "zeller.R" "neuro.R" "fitzpatrick.R" "umap_tsne.R" "autodiff.R" "zeller_scaleY_question.R" "dScore.R" "zeroSum.R" "../" "tree_laplac.R")
+
+ ("/home/parker/bema-project/" (24791 19334 355420 912000) "bema_scratch_pk.ipynb" ".Rproj.user/" ".gitignore" "./" ".Rhistory" "bema.py" "__pycache__/" ".ipynb_checkpoints/" "1000Genome_code.ipynb" "../" ".git/")
+
+ ("/home/parker/org/" (24792 57349 806433 312000) "todo.org" "./" "projects.org" "notes.org" "fitness.org" "daily.org" "../" "papers.org" "meetings.org" ".git/")
+
+ ("/home/parker/fredhutch/aKPR-project/manuscript/" (24792 57400 665128 870000) "./" ".auctex-auto/" "aKPR_v1.fls" "aKPR_v1.fdb_latexmk" "aKPR_v1.synctex.gz" "aKPR_v1.pdf" "aKPR.bib" "aKPR_v1.out" "imsart-nameyear.bst" "imsart.sty" "aKPR_v1.tex" "aKPR_v1.blg" "imsart.cls" "aKPR_v1.log" "aKPR_v1.bbl" "../" "v0/" "aKPR_v1.aux")
+
+ ("/home/parker/fredhutch/aKPR-project/" (24790 28557 154960 562000) ".Rproj.user/" ".gitignore" "./" "README.md" "notes/" "setting1_output_June8.RData" "code/" "Screenshot from 2021-04-13 12-51-24.png" "manuscript/" ".Rhistory" "aKPR-project.Rproj" "data/" "talk-june242021/" "../" ".git/")
+
+ ("/home/parker/fredhutch/" (24790 15016 677796 320000) "aKPR.code-workspace" "plsgmd/" "./" "honors-thesis/" "GMDecomp/" "KPR/" "../" "aKPR-project/" "bactocarb/")
+
+ ("/home/parker/Documents/" (24789 4740 138975 710000) "Zoom/" "books/" "./" "papers/" "Mixtape-CausalInference/" "NSF_offer_letter.pdf" "unc_visit.org" "harvard_openhouse.org" "harvard_financial_letter.pdf" "cv/" "pk_unofficial_transcript_final.pdf" "harvard_interview.org" "scripts/" "lmp/" "measure-theory/" "../" "harvard_offer_letter.pdf")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
