@@ -81,11 +81,20 @@
 
 ;; org
 (use-package org
+  :bind ( ("C-c c" . org-capture)
+	  ("C-c a" . org-agenda))
   :config
   (setq
    org-startup-indented t
    org-directory "~/org/"
    org-agenda-files '("~/org/")
+   org-hide-leading-stars t
+   org-capture-templates '(("t" "Todo" entry (file+headline "~/org/todo.org" "Tasks")
+         "* TODO %?\n %i")
+      ("n" "Note" entry (file+headline "~/org/notes.org" "Notes")
+       "* %T %?\n %i")
+      ("d" "Daily log" entry (file+headline "~/org/daily.org" "Log")
+       "* %t %?\n %i"))
    org-refile-targets '((nil :maxlevel . 9)
 			(org-agenda-files :maxlevel . 9))
    )
